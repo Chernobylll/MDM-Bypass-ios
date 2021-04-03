@@ -9,9 +9,10 @@ Anyone is welcome to work on & contribute to the project as long as they abide b
 
 OpenBypass uses a few 3rd party libraries, they are listed below:
 
--SSH.NET
+1-SSH.NET
 
--FontAwesome.Sharp
+2-FontAwesome.Sharp
 
--LibiMobileDevice
--BY ChernobyL
+3-LibiMobileDevice
+
+#BY ChernobyL
