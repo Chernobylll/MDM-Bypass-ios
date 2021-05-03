@@ -11,8 +11,10 @@ OpenBypass uses a few 3rd party libraries, they are listed below:
 
 1-SSH.NET
 
+
 2-FontAwesome.Sharp
 
-3-LibiMobileDevice
 
+3-LibiMobileDevice
+Update 3.5.2021
 #BY ChernobyL
